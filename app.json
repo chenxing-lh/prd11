@@ -1,0 +1,19 @@
+{
+  "appKey": "UEhTLB4eOh7ZijZVoR8aOeDTwyXGJnG3",
+  "appSecret": "IyY4vlbsc23BI50EPSgwLj0ukVA6tnTG",
+  "projectId": "0c11946aec0c4ca13e2de9f2b8980901",
+  "id": 463,
+  "name": "te2",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/prd11.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "d3/5iruDGxEOcQUKTyfsvqOjmjK6cyCStUG8IcEoZsXXZFB7+0gm4Q7jkoU1gzm+PgSYzjrsYjaXh4jnHjj3vg=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
